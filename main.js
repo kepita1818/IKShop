@@ -8,8 +8,8 @@ const ADMIN_USER = {
 
 const products = [
   { id: 1, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" },
-  { id: 2, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" },
-  { id: 3, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" }
+  { id: 2, name: "Airpods Pro2 USB-C ANC", price: 30, image: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-202409-gallery-1?wid=2824&hei=2400&fmt=jpeg&qlt=90&.v=V3lwSGNUa3E5M1VnNVZBT1RDR3Y2NS9rS3dwK1hySWg2QW9tQ1lqaSsxQXFlellpcE56OWNsOHBzVkJLWjdrYWJGcXNRQnFCV0w3WVRjTExvdm1ic1EvTVdVZ0JiQWtXQjFVOE5MY25KUnVIaWV5SG1KWWRSb1RMSkNqUDJYZHY" },
+  { id: 3, name: "Vapers", price: 20-22, image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-6rPKpfYpvnU7Cyjzs3b-H99UrOfmxONzw&s" }
   ]
 
 // --- SESIÓN ---
