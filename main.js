@@ -8,9 +8,9 @@ const ADMIN_USER = {
 
 const products = [
   { id: 1, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" },
-  { id: 2, name: "Sudadera Gris", price: 29.99, image: "https://via.placeholder.com/200x200?text=Sudadera+Gris" },
-  { id: 3, name: "Gorra Azul", price: 14.99, image: "https://via.placeholder.com/200x200?text=Gorra+Azul" }
-];
+  { id: 2, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" },
+  { id: 3, name: "Perfume Louis Vuitton Ombre Nomade", price: 50, image: "https://perfume-malaysia.com/wp-content/uploads/2015/09/LV-OMBRE-NOMADE-462x404.jpg" }
+  ]
 
 // --- SESIÓN ---
 
